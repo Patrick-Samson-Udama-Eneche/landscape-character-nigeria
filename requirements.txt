@@ -1,0 +1,5 @@
+All libraries and tools required to run each script are stated at the beginning of each respective script. However, to run the script used to obtain data from Google Earth Engine (in the folder /GEE_Dataset/GEE_data_acq.ipynb), ensure you have:
+
+google-auth
+google-auth-oauthlib
+.json file/user id
