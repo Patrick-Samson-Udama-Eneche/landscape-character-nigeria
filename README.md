@@ -53,7 +53,7 @@ Based on the European Landscape Classification [LANMAP Typology](http://dx.doi.o
 
 ## Result Preview
 
-Complete Landscape Character of Nigeria
+Landscape Character of Nigeria
 
 ![image](https://github.com/user-attachments/assets/b3a24f93-b883-48f2-9528-1f693dd3ead4)
 
