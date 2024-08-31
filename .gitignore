@@ -1,3 +1,8 @@
+# Ignore authentication file in the Google Earth Engine (GEE) folder
 sigma-hallway-357006-ad5b9b727b59.json
+
+# Ignore all files in the all_output folder to ensure that the folder is empty
 all_output/*
+
+# Except for .gitkeep, so the folder itself is tracked
 !all_output/.gitkeep
