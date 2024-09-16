@@ -3,7 +3,8 @@
 ## Description
 This repository contains a collection of Python scripts used for the landscape characterization of Nigeria, leveraging machine learning-based algorithms and spatial analysis techniques. The characterization focuses on the composition and configuration of Nigeria's biophysical landscape types/areas at a 1km resolution.
 
-All input datasets required for this assessment are provided within the repository, while the outputs/results are available for download from [Zenodo](https:zenodo....). This repository is compatible with Python 3.8 and later versions, and all necessary libraries are listed at the beginning of each notebook.
+All input datasets required for this assessment are provided within the repository, while the output results and other resources are available in our mirrored project on [Open Science Framework (OSF)](https://doi.org/10.17605/OSF.IO/E2K73). This repository is compatible with Python 3.8 and later versions, and all necessary libraries are listed at the beginning of each notebook.
+
 
 ## Notebooks Overview
 
