@@ -46,7 +46,7 @@ This repository is organized into four distinct Jupyter notebooks, each handling
 ## Data and Method
 
 Based on the European Landscape Classification [LANMAP Typology](http://dx.doi.org/10.1016/j.ecolind.2009.03.018), the following dataset are used:
-* Parent material (geology) was downloaded from [Nkwunonwo et al (2020)](https://doi.org/10.1016/j.dib.2020.105941) and [Salawu et al (2019)](https://doi.org/10.1007/s40948-019-00110-7), and preprocessed.
+* Parent material (geology) was downloaded from [Nkwunonwo et al (2021)](https://data.mendeley.com/datasets/zmrt6k83wk/1) and preprocessed.
 * Climate of Nigeria was downloaded from [Ugwu, et al (2023)](https://doi.org/10.1016/j.sciaf.2023.e01670) and preprocessed.
 * Elevation was obtained from Google Earth [data catalogue](https://developers.google.com/earth-engine/datasets/catalog/CGIAR_SRTM90_V4#description) or from the [official website](https://srtm.csi.cgiar.org).
 * Landcover data is from Google Earth [data catalogue](https://developers.google.com/earth-engine/datasets/catalog/ESA_WorldCover_v200) or from the [The European Space Agency (ESA)](https://esa-worldcover.org).
