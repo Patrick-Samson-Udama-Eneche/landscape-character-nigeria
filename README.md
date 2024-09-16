@@ -43,7 +43,7 @@ This repository is organized into four distinct Jupyter notebooks, each handling
 
 
 
-## Data
+## Data and Method
 
 Based on the European Landscape Classification [LANMAP Typology](http://dx.doi.org/10.1016/j.ecolind.2009.03.018), the following dataset are used:
 * Parent material (geology) was downloaded from [Nkwunonwo et al (2020)](https://doi.org/10.1016/j.dib.2020.105941) and [Salawu et al (2019)](https://doi.org/10.1007/s40948-019-00110-7), and preprocessed.
@@ -51,6 +51,9 @@ Based on the European Landscape Classification [LANMAP Typology](http://dx.doi.o
 * Elevation was obtained from Google Earth [data catalogue](https://developers.google.com/earth-engine/datasets/catalog/CGIAR_SRTM90_V4#description) or from the [official website](https://srtm.csi.cgiar.org).
 * Landcover data is from Google Earth [data catalogue](https://developers.google.com/earth-engine/datasets/catalog/ESA_WorldCover_v200) or from the [The European Space Agency (ESA)](https://esa-worldcover.org).
 * Lastly, for an extended description of landscape characters, we made use of The Terra Moderate Resolution Imaging Spectroradiometer (MODIS) Land Surface Temperature/Emissivity Daily (MOD11A1) Version 6.1 product which is accessible via Google Earth [data catalogue](https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD11A1#dois) or use the [link](https://doi.org/10.5067/MODIS/MOD11A1.061).
+
+![flowchart_1](https://github.com/user-attachments/assets/508e5006-f583-4249-bf4f-41d399527d69)
+
 
 ## Result Preview
 
