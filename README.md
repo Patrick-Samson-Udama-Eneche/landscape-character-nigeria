@@ -72,4 +72,4 @@ To clone this repository to your local directory, type:
 
 ## License
 
-This code is licensed under an MIT license. See file LICENSE.txt for details on the usage and distribution terms.
+This repository is licensed under an [CC-By Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode). See the License.txt for details on the terms of usage and (re)distribution.
