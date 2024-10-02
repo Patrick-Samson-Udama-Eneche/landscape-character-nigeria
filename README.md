@@ -55,11 +55,17 @@ Based on the European Landscape Classification [LANMAP Typology](http://dx.doi.o
 ![flowchart_1](https://github.com/user-attachments/assets/508e5006-f583-4249-bf4f-41d399527d69)
 
 
-## Result Preview
+## Results
 
 Landscape Character of Nigeria
 
 ![image](https://github.com/user-attachments/assets/b3a24f93-b883-48f2-9528-1f693dd3ead4)
+
+## Dashboard
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13880382.svg)](https://doi.org/10.5281/zenodo.13880382)
+![Dashboard_Nigeria_landscape_character](https://github.com/user-attachments/assets/b582059a-c5dd-4f15-963b-fc1c7bcac6f6)
+
+
 
 ## Usage
 To replicate the analysis or explore the input dataset, clone this repository and ensure all dependencies are installed. Each notebook contains detailed instructions for execution.
