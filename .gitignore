@@ -6,5 +6,6 @@ sigma-hallway-357006-ad5b9b727b59.json
 all_output/*
 Tableau/*
 
+
 # Except for .gitkeep, so the folder itself is tracked
 !all_output/.gitkeep
