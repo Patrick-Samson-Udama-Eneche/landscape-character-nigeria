@@ -1,14 +1,57 @@
 # Landscape Characterization of Nigeria
 
-## Description
 This repository contains a collection of Python scripts used for the landscape characterization of Nigeria, leveraging machine learning-based algorithms and spatial analysis techniques. The characterization focuses on the composition and configuration of Nigeria's biophysical landscape types/areas at a 1km resolution.
 
-All input datasets required for this assessment are provided within the repository, while the output results and other resources are available in our mirrored project on [Open Science Framework (OSF)](https://doi.org/10.17605/OSF.IO/E2K73). This repository is compatible with Python 3.8 and later versions, and all necessary libraries are listed at the beginning of each notebook.
+All input datasets required for this assessment are provided within the repository, while the output results and other resources (e.g. [Dashboard](https://doi.org/10.5281/zenodo.13880382), datasets, etc.) are available in our mirrored project on [Open Science Framework (OSF)](https://doi.org/10.17605/OSF.IO/E2K73). Kindly note that it is an ongoing research.
+
+## Table of contents
+
+* [Requirements](#Requirements)
+* [Getting Started](#Getting-Started)
+* [Notebooks](#notebooks)
+* [Data and Methods](#data-and-methods)
+* [Results](#results)
+* [Usage](#usage)
+* [Contribution/Collaboration](#how-to-contributecollaborate)
 
 
-## Notebooks Overview
+## Requirements
 
-This repository is organized into four distinct Jupyter notebooks, each handling a specific aspect of the research:
+The results were produced using Python 3.12.3 and Jupyter Notebook in the following test environment:
+
+```
+Operating system: Windows x86_64
+CPU: 13th Gen Intel(R) Core(TM) i7-13700H (14 Cores | 20 Log. Processors)
+memory (RAM): 16GB
+disk storage: 1TB
+GPU: NVIDIA RTX A500
+```
+
+## Getting Started
+
+To get started with this project, follow the steps below to set up your environment and install the necessary dependencies.
+
+### Prerequisites
+
+#### Python
+
+Make sure Python 3.12 or later is installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
+
+#### Setting Up a Virtual Environment
+```
+It is recommended to create a virtual environment to isolate project dependencies. See the [link](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/)
+```
+### Install Libraries/Dependencies
+```
+Run the following command to install all the required libraries:
+
+pip install -r requirements.txt
+
+```
+
+## Notebooks
+
+This repository is organized into four distinct Jupyter notebooks; each handling a specific aspect of the research:
 
 ### 1. Google Earth Engine Dataset Acquisition
 
@@ -23,7 +66,7 @@ This repository is organized into four distinct Jupyter notebooks, each handling
 
 * Notebook: /cluster_analyses.ipynb
 
-* Purpose: Identifies and delineates landscape types and areas through clustering techniques.
+* Purpose: Identifies and delineates landscape types and areas via clustering techniques.
 
 
 ### 3. Cluster Determination
@@ -32,7 +75,7 @@ This repository is organized into four distinct Jupyter notebooks, each handling
 
 * Purpose: Determines the optimal number of clusters using machine learning algorithms.
 
-* Note: Depending on your system's capabilities, this notebook may require significant processing time.
+* Note: Depending on your system's configuration, this notebook may require significant processing time.
 
 
 ### 4. Landscape Structure Analysis
@@ -43,7 +86,7 @@ This repository is organized into four distinct Jupyter notebooks, each handling
 
 
 
-## Data and Method
+## Data and Methods
 
 Based on the European Landscape Classification [LANMAP Typology](http://dx.doi.org/10.1016/j.ecolind.2009.03.018), the following dataset are used:
 * Parent material (geology) was downloaded from [Nkwunonwo et al (2021)](https://data.mendeley.com/datasets/zmrt6k83wk/1) and preprocessed.
@@ -68,7 +111,7 @@ Landscape Character of Nigeria
 
 
 ## Usage
-To replicate the analysis or explore the input dataset, clone this repository and ensure all dependencies are installed. Each notebook contains detailed instructions for execution.
+To replicate the analysis or explore the input dataset, clone this repository and ensure all dependencies are installed as stated above.
 
 To clone this repository to your local directory, type:
 
@@ -77,8 +120,15 @@ To clone this repository to your local directory, type:
 ```
 
 
-
-
-## License
+### License
 
 This repository is licensed under an [CC-By Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode). See the License.txt for details on the terms of usage and (re)distribution.
+
+
+## How to contribute/collaborate
+
+Thank you for your interest to contribute/collaborate. Kindly send an email to p.s.u.eneche@utwente.nl
+
+## Additional information
+
+For more information please visit the project page on the [Open Science Framework (OSF)](https://doi.org/10.17605/OSF.IO/E2K73)
