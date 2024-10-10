@@ -5,8 +5,9 @@ sigma-hallway-357006-ad5b9b727b59.json
 # Access to the folders will be made public as soon as possible.
 all_output/*
 Tableau/*
-
+.venv/
 
 # Except for .gitkeep, so the folder itself is tracked
 !all_output/.gitkeep
 !Tableau/.gitkeep
+!.venv/.gitkeep
