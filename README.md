@@ -6,8 +6,8 @@ All input datasets required for this assessment are provided within the reposito
 
 ## Table of contents
 
-* [Requirements](#Requirements)
-* [Getting Started](#Getting-Started)
+* [Requirements](#requirements)
+* [Getting Started](#getting-started)
 * [Notebooks](#notebooks)
 * [Data and Methods](#data-and-methods)
 * [Results](#results)
@@ -38,13 +38,13 @@ To get started with this project, follow the steps below to set up your environm
 Make sure Python 3.12 or later is installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
 
 #### Setting Up a Virtual Environment
-```
-It is recommended to create a virtual environment to isolate project dependencies. See the [link](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/)
-```
-### Install Libraries/Dependencies
-```
-Run the following command to install all the required libraries:
 
+It is recommended that a virtual environment be created to isolate project dependencies. See the [link](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/)
+
+### Install Libraries/Dependencies
+
+Run the following command to install all the required libraries:
+```
 pip install -r requirements.txt
 
 ```
@@ -95,7 +95,9 @@ Based on the European Landscape Classification [LANMAP Typology](http://dx.doi.o
 * Landcover data is from Google Earth [data catalogue](https://developers.google.com/earth-engine/datasets/catalog/ESA_WorldCover_v200) or from the [The European Space Agency (ESA)](https://esa-worldcover.org).
 * Lastly, for an extended description of landscape characters, we made use of The Terra Moderate Resolution Imaging Spectroradiometer (MODIS) Land Surface Temperature/Emissivity Daily (MOD11A1) Version 6.1 product which is accessible via Google Earth [data catalogue](https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD11A1#dois) or use the [link](https://doi.org/10.5067/MODIS/MOD11A1.061).
 
+### Flowchart
 ![flowchart_1](https://github.com/user-attachments/assets/508e5006-f583-4249-bf4f-41d399527d69)
+
 
 
 ## Results
@@ -103,6 +105,7 @@ Based on the European Landscape Classification [LANMAP Typology](http://dx.doi.o
 Landscape Character of Nigeria
 
 ![image](https://github.com/user-attachments/assets/b3a24f93-b883-48f2-9528-1f693dd3ead4)
+
 
 ## Dashboard
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13880382.svg)](https://doi.org/10.5281/zenodo.13880382)
