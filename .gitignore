@@ -4,7 +4,7 @@ sigma-hallway-357006-ad5b9b727b59.json
 # Ignore all files in the following folders to ensure the size of the repo is kept minimal
 # Access to the folders will be made public as soon as possible.
 all_output/*
-Tableau/
+Tableau/*
 .venv/
 
 # Except for .gitkeep, so the folder itself is tracked
