@@ -109,7 +109,7 @@ Landscape Character of Nigeria
 
 
 ## Dashboard
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13880382.svg)](https://doi.org/10.5281/zenodo.13880382)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13880381.svg)](https://doi.org/10.5281/zenodo.13880381)
 ![Dashboard_Nigeria_landscape_character](https://github.com/user-attachments/assets/b582059a-c5dd-4f15-963b-fc1c7bcac6f6)
 
 
