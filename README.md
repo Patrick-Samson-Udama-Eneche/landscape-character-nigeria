@@ -1,3 +1,4 @@
+[![DOI](https://github.com/codecheckers/codecheckers.github.io/blob/master/badges/codecheck-badge.png)](https://doi.org/10.17605/OSF.IO/MWBUQ)
 # Landscape Characterization of Nigeria
 
 This repository contains a collection of Python scripts used for the landscape characterization of Nigeria, leveraging machine learning-based algorithms and spatial analysis techniques. The characterization focuses on the composition and configuration of Nigeria's biophysical landscape types/areas at a 1km resolution.
