@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/847314584.svg)](https://doi.org/10.5281/zenodo.14358958)
 [![DOI](https://github.com/codecheckers/codecheckers.github.io/blob/master/badges/codecheck-badge.png)](https://doi.org/10.17605/OSF.IO/MWBUQ)
 # Landscape Characterization of Nigeria
 
