@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/847314584.svg)](https://doi.org/10.5281/zenodo.14358958)
+
+[![DOI](https://github.com/codecheckers/codecheckers.github.io/blob/master/badges/codecheck-badge.png)](https://doi.org/10.17605/OSF.IO/MWBUQ)
 # Landscape Characterization of Nigeria
 
 This repository contains a collection of Python scripts used for the landscape characterization of Nigeria, leveraging machine learning-based algorithms and spatial analysis techniques. The characterization focuses on the composition and configuration of Nigeria's biophysical landscape types/areas at a 1km resolution.
@@ -108,7 +111,7 @@ Landscape Character of Nigeria
 
 
 ## Dashboard
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13880382.svg)](https://doi.org/10.5281/zenodo.13880382)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13880381.svg)](https://doi.org/10.5281/zenodo.13880381)
 ![Dashboard_Nigeria_landscape_character](https://github.com/user-attachments/assets/b582059a-c5dd-4f15-963b-fc1c7bcac6f6)
 
 
