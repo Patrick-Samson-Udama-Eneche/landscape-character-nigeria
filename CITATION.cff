@@ -1,0 +1,52 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Landscape character assessment of Nigeria
+message: 'To cite this repository, use the citation file included'
+type: software
+authors:
+  - given-names: Patrick
+    family-names: Samson Udama Eneche
+    email: enelche247@gmail.com
+    affiliation: University of Twente
+    orcid: 'https://orcid.org/0000-0002-0504-9677'
+  - given-names: Funda
+    family-names: Atun
+    email: f.atun@utwente.nl
+    affiliation: University of Twente
+    orcid: 'https://orcid.org/0000-0002-6222-8049'
+  - given-names: Yijian
+    family-names: Zeng
+    email: y.zeng@utwente.nl
+    affiliation: University of Twente
+    orcid: 'https://orcid.org/0000-0002-2166-5314'
+  - given-names: Karin
+    family-names: Pfeffer
+    email: k.pfeffer@utwente.nl
+    affiliation: University of Twente
+    orcid: 'https://orcid.org/0000-0002-6080-1323'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.14358958
+    description: Link to to the repository
+  - type: doi
+    value: 10.4121/f7e4e2f9-a97c-4259-86bc-4840bc95be2f
+    description: Dataset output published on 4TU.ResearchData
+repository-code: >-
+  https://github.com/Patrick-Samson-Udama-Eneche/landscape-character-nigeria
+abstract: >-
+  This repository contains all datasets, codes, and outputs
+  obtained while assessing Nigeria's landscape character on
+  a broad scale.
+keywords:
+  - Landscape character
+  - Nigeria
+  - Machine learning
+  - Land cover
+  - Climate
+  - Geology
+  - Topography
+license: CC-BY-4.0
+version: 1.0.1
+date-released: '2024-12-10'
