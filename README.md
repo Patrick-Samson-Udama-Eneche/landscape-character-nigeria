@@ -5,7 +5,7 @@
 
 This repository contains a collection of Python scripts used for the landscape characterization of Nigeria, leveraging machine learning-based algorithms and spatial analysis techniques. The characterization focuses on the composition and configuration of Nigeria's biophysical landscape types/areas at a 1km resolution.
 
-All input datasets required for this assessment are provided within the repository, while the output results and other resources (e.g. [Dashboard](https://doi.org/10.5281/zenodo.13880382), datasets, etc.) are available in our mirrored project on [Open Science Framework (OSF)](https://doi.org/10.17605/OSF.IO/E2K73). Kindly note that it is an ongoing research.
+All input datasets required for this assessment are provided within the repository, while the output results and other resources (e.g. [Dashboard](https://doi.org/10.5281/zenodo.13880382), datasets, etc.) are available in our mirrored project on [Open Science Framework (OSF)](https://doi.org/10.17605/OSF.IO/E2K73).
 
 ## Table of contents
 
@@ -99,7 +99,8 @@ Based on the European Landscape Classification [LANMAP Typology](http://dx.doi.o
 * Lastly, for an extended description of landscape characters, we made use of The Terra Moderate Resolution Imaging Spectroradiometer (MODIS) Land Surface Temperature/Emissivity Daily (MOD11A1) Version 6.1 product which is accessible via Google Earth [data catalogue](https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD11A1#dois) or use the [link](https://doi.org/10.5067/MODIS/MOD11A1.061).
 
 ### Flowchart
-![flowchart_1](https://github.com/user-attachments/assets/508e5006-f583-4249-bf4f-41d399527d69)
+![Charts_flow2](https://github.com/user-attachments/assets/72d1ec63-2847-4528-b754-25787f439264)
+
 
 
 
@@ -115,9 +116,14 @@ Landscape Character of Nigeria
 ![Dashboard_Nigeria_landscape_character](https://github.com/user-attachments/assets/b582059a-c5dd-4f15-963b-fc1c7bcac6f6)
 
 
+## Output Dataset
+[![image](https://github.com/user-attachments/assets/a39a158e-770c-4ced-88ef-703bfc660f37)](https://doi.org/10.4121/f7e4e2f9-a97c-4259-86bc-4840bc95be2f)
+
+Use the above link to access all intermediate and final output results ("all_output" folder) published on #4TU.ResearchData.
+
 
 ## Usage
-To replicate the analysis or explore the input dataset, clone this repository and ensure all dependencies are installed as stated above.
+To reproduce the analysis or explore the input dataset, please clone this repository and install all dependencies as stated above.
 
 To clone this repository to your local directory, type:
 
