@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 ## Notebooks
 
-This repository is organized into four distinct Jupyter notebooks; each handling a specific aspect of the research:
+This repository is organized into four Jupyter notebooks; each handling a specific aspect of the research and in the order:
 
 ### 1. Google Earth Engine Dataset Acquisition
 
@@ -65,20 +65,21 @@ This repository is organized into four distinct Jupyter notebooks; each handling
 * Requirements: Google authentication is necessary.
 
 
-### 2. Cluster Analysis
-
-* Notebook: /cluster_analyses.ipynb
-
-* Purpose: Identifies and delineates landscape types and areas via clustering techniques.
-
-
-### 3. Cluster Determination
+### 2. Cluster Determination
 
 * Notebook: /cluster_determination.ipynb
 
 * Purpose: Determines the optimal number of clusters using machine learning algorithms.
 
 * Note: Depending on your system's configuration, this notebook may require significant processing time.
+
+
+### 3. Cluster Analysis
+
+* Notebook: /cluster_analyses.ipynb
+
+* Purpose: Identifies and delineates landscape types and areas via clustering techniques.
+
 
 
 ### 4. Landscape Structure Analysis
@@ -88,6 +89,11 @@ This repository is organized into four distinct Jupyter notebooks; each handling
 * Purpose: Analyze the composition and configuration of the identified landscape characters.
 
 
+### 5. Landscape Character Assessment Validation
+
+* Notebook: /landscape_character_validation.ipynb
+
+* Purpose: Validation of the results obtained in the landscape character assessment, therefore, provides reliability for our assessment alongside other qualitative approaches adopted in the study.
 
 ## Data and Methods
 
@@ -103,13 +109,14 @@ Based on the European Landscape Classification [LANMAP Typology](http://dx.doi.o
 
 
 
-
 ## Results
 
 Landscape Character of Nigeria
 
 ![image](https://github.com/user-attachments/assets/b3a24f93-b883-48f2-9528-1f693dd3ead4)
 
+## Result Validation
+![alt text](image.png)
 
 ## Dashboard
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13880381.svg)](https://doi.org/10.5281/zenodo.13880381)
